@@ -63,4 +63,9 @@ Open boundary conditions (OBC) are used.
 - **量子回路の構築・実行：** Qiskit / IBM Quantum
 - **測定結果の解析：** 期待値推定、Fourier transform
 
+
+古典計算機： 基底状態の変分パラメータの最適化、AQC による回路圧縮、結果のフーリエ変換
+
+量子コンピュータ： 圧縮した量子回路を実行し、各サイトの $\langle Z_i\rangle$ を測定
+
 この手法は、古典計算によるテンソルネットワーク法と量子コンピュータを組み合わせたハイブリッド計算である。
