@@ -69,3 +69,7 @@ Open boundary conditions (OBC) are used.
 量子コンピュータ： 圧縮した量子回路を実行し、各サイトの $\langle Z_i\rangle$ を測定
 
 この手法は、古典計算によるテンソルネットワーク法と量子コンピュータを組み合わせたハイブリッド計算である。
+
+
+![Correlation function G(n, c, t)](rgf_lightcone_64qubit.png)
+![Dynamical structure factor S(q, w)](sqw_q_64qubit.png)
