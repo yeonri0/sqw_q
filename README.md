@@ -71,5 +71,5 @@ Open boundary conditions (OBC) are used.
 この手法は、古典計算によるテンソルネットワーク法と量子コンピュータを組み合わせたハイブリッド計算である。
 
 
-![Correlation function G(n, c, t)](rgf_lightcone_64qubit.png)
-![Dynamical structure factor S(q, w)](sqw_q_64qubit.png)
+![Correlation function G(n, c, t)](rgf_lightcone_10qubits.png)
+![Dynamical structure factor S(q, w)](sqw_q_10qubits.png)
